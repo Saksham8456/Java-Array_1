@@ -17,7 +17,8 @@ public class Ascii1 {
     {
         for (int i = 0; i < arr.length; i++)
         {
-            System.out.printf("%c\n",arr[i]);
+            System.out.printf("%c\n",arr[i]);. // you can also use type casting.
+                                               // like a=(char)c; if int c; is there.
         }
     }
 }
