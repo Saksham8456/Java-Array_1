@@ -16,7 +16,7 @@ public class Check1 {
         int f=0,i;
          for ( i = 0; i < arr.length; i++) {
              if (arr[i]==ele)
-             {
+             {                                  //this is a comment
                  f=1;
                  break;
              }
